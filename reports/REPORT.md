@@ -1,6 +1,6 @@
 # Lab 25B — Report
 
-**Họ tên / nhóm:** Cao Đức Anh - MSV: 2A202602754  **Commit:** cf3abe93035f708cc9cc63fdabfef11c7f6156d8  **Điểm tự động (`make grade`):** 84.0 / 88 (+ 4 điểm dữ liệu ẩn = 88 / 88)
+**Họ tên / nhóm:** Cao Đức Anh - MSV: 2A202602754  **Commit:** 75e0ece72bf8ed382211fe175a48695dd7a153e0  **Điểm tự động (`make grade`):** 84.0 / 88 (+ 4 điểm dữ liệu ẩn = 88 / 88)
 
 > Mọi nhận định phải có số. Dán số từ `reports/gameday/*.json`, `reports/workflows.json`, `reports/slo.json`.
 
